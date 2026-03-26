@@ -1,16 +1,17 @@
 {
-  "name": "learn-ts",
-  "version": "0.0.1",
-  "homepage": "https://github.com/sjnp/learn-ts#readme",
-  "bugs": {
-    "url": "https://github.com/sjnp/learn-ts/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sjnp/learn-ts.git"
-  },
-  "author": "sjnp",
+  "name": "@sjnp/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
   "devDependencies": {
-    "nx": "22.6.1"
-  }
+    "@nx/js": "22.6.1",
+    "nx": "22.6.1",
+    "prettier": "^2.6.2",
+    "tslib": "^2.3.0",
+    "typescript": "~5.9.2"
+  },
+  "workspaces": [
+  ]
 }
