@@ -1,0 +1,16 @@
+{
+  "name": "learn-ts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sjnp/learn-ts#readme",
+  "bugs": {
+    "url": "https://github.com/sjnp/learn-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjnp/learn-ts.git"
+  },
+  "author": "sjnp",
+  "devDependencies": {
+    "nx": "22.6.1"
+  }
+}
