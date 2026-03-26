@@ -1,4 +1,5 @@
 import { ChangeEvent, FocusEvent, useRef, useState } from 'react';
+import { MockWelcome } from '@sjnp/ui';
 
 export function App() {
   const maxLength = 20;
@@ -46,6 +47,7 @@ export function App() {
         Submit
       </button>
       <p>Clicked: {clickValue}</p>
+      <MockWelcome />
     </div>
   );
 }

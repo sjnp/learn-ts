@@ -7,12 +7,12 @@
   "dependencies": {
     "@capacitor/android": "^8.3.0",
     "@capacitor/ios": "^8.3.0",
-    "@tailwindcss/vite": "^4.2.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "tailwindcss": "^4.2.2"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "tailwindcss": "^4.2.2",
+    "@tailwindcss/vite": "^4.2.2",
     "@babel/core": "^7.14.5",
     "@babel/preset-react": "^7.14.5",
     "@capacitor/cli": "^8.3.0",
